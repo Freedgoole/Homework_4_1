@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #FFFFFF;
+	font-family: Tahoma, Arial, serif;
+	font-weight: normal;
+	text-align: center;
+}
+
+.conteiner {
+	margin:0 auto;
+	width: 376px;
+	height: 526px;
+	border: 2px solid #5A5A5A;
+}
+h1 {
+	font-size: 22px;
+	font-weight: normal;
+	margin-top: 17px;
+}
+.promo_tovar {
+	width: 257px;
+	height: 277px;
+	margin: 0 auto;
+	background: url(./photoshop_assets_1-master/src/tab_3_7_05_home_page_1.jpg) no-repeat center center;
+	background-size: contain;
+	margin-top: 20px;
+}
+.credit {
+	width: 188px;
+	height: 30px;
+	background: #9AB948;
+	font-size: 22px;
+	color: #FFFFFF;
+	box-shadow: -3px 3px #9C9C9C;
+	border: none;
+	position: relative;
+	left: -93px;
+	
+}
+p {
+	font-size: 31px;
+	font-weight: normal;
+	margin: 18px 0 11px 0;
+	text-shadow: 0 0 1px #9C9C9C;
+}
+.buy{
+	line-height: 46px;
+	width: 230px;
+	height: 46px;
+	background: #E93F33;
+	font-size: 28px;
+	font-weight: normal;
+	color: #ffffff;
+	text-shadow: 0 0 1px #9C9C9C;
+	border: none;
+}
+.border_bottom{
+	width: 229px;
+	height: 4px;
+	background:#791C16;
+	margin-left: 73px;
+}
